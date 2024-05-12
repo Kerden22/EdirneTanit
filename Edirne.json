@@ -2,23 +2,23 @@
     { 
        "isim" :"Selimiye Camii",
        "aciklama":"Selimiye Camii, Osmanlı padişahı II. Selim döneminde Mimar Sinan'ın yaptığı ve Osmanlı'nın önceki başkenti Edirne'de bulunan bir Camii'dir",
-         
+        "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Selimiye%20Camii.png" 
     },
     {
         "isim":"Meriç Köprüsü",
         "aciklama":"Abdülmecit tarafından yaptırılmıştır. Edirne-Karağaç yolunda Meriç Nehri üzerinde yer alıyor. 263 metre uzunluğundaki köprünün, 13 ayak üzerinde 12 sivri kemeri bulunuyor.",
-  
+        "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Meri%C3%A7%20K%C3%B6pr%C3%BCs%C3%BC.png" 
     },     
 
     {
        "isim":"Kırkpınar Er Meydanı",
        "aciklama":"Hakkında çeşitli efsaneler olan Kırkpınar güreşleri Osmanlı Dönemi’nden bu yana temmuz ayında yapılıyor.",
-
+        "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/K%C4%B1rkp%C4%B1nar.png" 
     },
     { 
          "isim" :"Selimiye Arastası",
          "aciklama":"Mimarı Davut Ağa. 256 m uzunluğunda ve 73 kemerli olan arasta günümüzde de faal olarak hizmet veriyor. ",
-         
+         "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Arasta.png" 
     }
 
 ]}
